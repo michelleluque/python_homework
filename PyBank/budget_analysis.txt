@@ -1,0 +1,7 @@
+Financial Analysis
+----------------------
+Total Months: (total_months)
+Total: $(total_net)
+Average Change: $(net_monthly_avg)
+Greatest Profit Increase: (greatest_increase[0]) ($(greatest_increase[1]))
+Greatest Profit Decrease: (greatest_decrease[0]) ($(greatest_increase[1]))
